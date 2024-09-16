@@ -1,3 +1,4 @@
 packages:
   - 'packages/embroider-rooturl-repro'
   - 'apps/test-app-classic'
+  - 'apps/test-app-embroider'
